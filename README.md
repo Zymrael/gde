@@ -14,6 +14,16 @@ GDEs rely on [dgl](https://github.com/dmlc/dgl) and [torchdiffeq](https://github
 * `0_1_node_classification_gde`: added
 * `0_2_multiagent_forecasting`: work in progress
 * `0_3_traffic_forecasting`: work in progress
+* `0_4_medical_dataset`: work in progress
 
 To suggest/request additional applications or GDE models, raise an `Issue` or contact me via email.
+If you find our work useful, consider citing us:
 
+```
+@article{poli2019graph,
+  title={Graph Neural Ordinary Differential Equations},
+  author={Poli, Michael and Massaroli, Stefano and Park, Junyoung and Yamashita, Atsushi and Asama, Hajime and Park, Jinkyoo},
+  journal={arXiv preprint arXiv:1911.07532},
+  year={2019}
+}
+```
