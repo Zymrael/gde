@@ -13,10 +13,7 @@ This repository is a work in progress. It contains examples of *Graph neural ord
 
 GDEs rely on [dgl](https://github.com/dmlc/dgl) and [torchdiffeq](https://github.com/rtqichen/torchdiffeq).
 
-
-## Notebook list:
-* `node_classification_gde`: added
-* `traffic_forecasting`: work in progress
+NOTE: GDE model zoo and tutorials are now moved to the `torchdyn` library: [link](https://github.com/DiffEqML/torchdyn)
 
 To suggest/request additional applications or GDE models, raise an `Issue` or contact me via email.
 If you find our work useful, consider citing us:
