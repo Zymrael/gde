@@ -1,7 +1,9 @@
 # gde
 Graph Neural Ordinary Differential Equations
 
-```We introduce the framework of continuous-depth graph neural networks (GNNs). Graph neural ordinary differential equations (GDEs) are formalized as the counterpart to GNNs where the input-output relationship is determined by a continuum of GNN layers, blending discrete topological structures and differential equations. The proposed framework is shown to be compatible with various static and autoregressive GNN models. Results prove general effectiveness of GDEs: in static settings they offer computational advantages by incorporating numerical methods in their forward pass; in dynamic settings, on the other hand, they are shown to improve performance by exploiting the geometry of the underlying dynamics.```
+```
+We introduce the framework of continuous-depth graph neural networks (GNNs). Graph neural ordinary differential equations (GDEs) are formalized as the counterpart to GNNs where the input-output relationship is determined by a continuum of GNN layers, blending discrete topological structures and differential equations. The proposed framework is shown to be compatible with various static and autoregressive GNN models. Results prove general effectiveness of GDEs: in static settings they offer computational advantages by incorporating numerical methods in their forward pass; in dynamic settings, on the other hand, they are shown to improve performance by exploiting the geometry of the underlying dynamics.
+```
 
 paper: [arXiv link](https://arxiv.org/abs/1911.07532)
 
